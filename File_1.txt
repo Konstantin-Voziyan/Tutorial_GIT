@@ -1,2 +1,3 @@
 Contenido inicial Fichero_1
 Linea 2, Fichero 1 <= Desde GitHub
+Linea 3, Fichero 1 <= Desde VSC
